@@ -18,5 +18,5 @@ The pulse average is used as the pulse time duration linear decision boundary. N
 The DOT and DASH averages are influenced most by the DOT-SYMBOL and DASH-SYMBOL clusters shown on the data distribution plots. This is due to  the fact that there are proportionately more pulses followed by SYMBOL spaces than followed by CHARACTER or WORD spaces. Since the DOT and DASH time duration variance is smaller in these clusters, especially in the DASH-SYMBOL cluster, the resulting pulse average, as determined by equation (3.2), lies more near the center of the gap between the two clusters, thereby providing a better linear decision boundary.
 
 
-[fig-3.1]: {{site.baseurl}}public/figures/3.1.png  "Figure 3.1"
-[fig-3.2]: {{site.baseurl}}public/figures/3.2.png  "Figure 3.2"
+[fig-3.1]: {{site.baseurl}}/public/figures/3.1.png  "Figure 3.1"
+[fig-3.2]: {{site.baseurl}}/public/figures/3.2.png  "Figure 3.2"

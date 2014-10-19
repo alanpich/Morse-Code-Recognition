@@ -29,8 +29,8 @@ The resulting linear decision boundaries are negatively sloping lines, as shown 
 By adding the appropriate adjustment value to suit a particular Morse  code transmission, the operator can optimize the readability of the printed output.
 
 
-[fig-3.3]: {{site.baseurl}}public/figures/3.3.png  "Figure 3.3"
-[fig-3.4]: {{site.baseurl}}public/figures/3.4.png  "Figure 3.4"
-[fig-3.5]: {{site.baseurl}}public/figures/3.5.png  "Figure 3.5"
-[fig-3.6]: {{site.baseurl}}public/figures/3.6.png  "Figure 3.6"
+[fig-3.3]: {{site.baseurl}}/public/figures/3.3.png  "Figure 3.3"
+[fig-3.4]: {{site.baseurl}}/public/figures/3.4.png  "Figure 3.4"
+[fig-3.5]: {{site.baseurl}}/public/figures/3.5.png  "Figure 3.5"
+[fig-3.6]: {{site.baseurl}}/public/figures/3.6.png  "Figure 3.6"
 
